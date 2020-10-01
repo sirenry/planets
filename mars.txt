@@ -1,5 +1,4 @@
-1. Cold and dry, but everyting is my favourite colour.
-2. hot and humid but the colours are fading
-3. but the mummy will not like the humidty
-4. Venus might be an option
-5. This is the line for testing reverse
+Cold and dry, but everyting is my favourite colour.
+hot and humid but the colours are fading
+but the mummy will not like the humidty
+Venus might be an option
